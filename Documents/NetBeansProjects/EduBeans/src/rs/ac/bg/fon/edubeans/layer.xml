@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <file name="Edit_hidden"/>
+        <folder name="File">
+            <file name="org-netbeans-modules-editor-ExportHtmlAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-openfile-RecentFileAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-print-action-PageSetupAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-print-action-PrintAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-CloseProject.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-NewFile.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-actions-CloseAllProjectsAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-actions-CloseOtherProjectsAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-groups-GroupsMenu.shadow_hidden"/>
+        </folder>
+        <file name="GoTo_hidden"/>
+        <folder name="Help">
+            <file name="org-netbeans-modules-javadoc-search-IndexOverviewAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-javadoc-search-SearchDocAction.shadow_hidden"/>
+        </folder>
+        <file name="Profile_hidden"/>
+        <folder name="Refactoring">
+            <file name="org-netbeans-modules-java-hints-jackpot-impl-refactoring-ApplyPatternAction.shadow_hidden"/>
+        </folder>
+        <folder name="Tools">
+            <file name="JavaPlatformsCustomizerAction.shadow_hidden"/>
+            <file name="LibrariesCustomizerAction.shadow_hidden"/>
+            <folder name="PaletteManager">
+                <file name="org-netbeans-modules-form-actions-InstallBeanAction.shadow_hidden"/>
+            </folder>
+            <file name="PlatformShellAction.shadow_hidden"/>
+            <file name="Separator1.instance_hidden"/>
+            <file name="ServerManagerAction3.shadow_hidden"/>
+            <file name="VariablesCustomizerAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-apisupport-project-ui-platform-NbPlatformCustomizerAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-templates-actions-TemplatesAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-xml-catalog-CatalogAction.shadow_hidden"/>
+            <file name="org-openide-actions-ToolsAction.shadow_hidden"/>
+        </folder>
+        <folder name="Versioning">
+            <file name="org-netbeans-modules-bugtracking-ui-query-IssueAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-bugtracking-ui-query-QueryAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-hudson-ui-actions-CreateJob-global.shadow_hidden"/>
+        </folder>
+        <folder name="View">
+            <file name="ShowEditorOnlyAction.shadow_hidden"/>
+        </folder>
+        <folder name="Window">
+            <file name="CloseAllButThisAction.shadow_hidden"/>
+            <file name="CloseAllDocumentsAction.shadow_hidden"/>
+            <folder name="ConfigureWindow">
+                <file name="CollapseDocumentTabGroupAction.shadow_hidden"/>
+                <file name="NewDocumentTabGroupAction.shadow_hidden"/>
+                <file name="org-netbeans-core-windows-actions-DockModeAction.shadow_hidden"/>
+                <file name="org-netbeans-core-windows-actions-DockWindowAction.shadow_hidden"/>
+                <file name="org-netbeans-core-windows-actions-MinimizeModeAction.shadow_hidden"/>
+                <file name="org-netbeans-core-windows-actions-UndockAction.shadow_hidden"/>
+                <file name="org-netbeans-core-windows-actions-UndockModeAction.shadow_hidden"/>
+            </folder>
+            <file name="DocumentsAction.shadow_hidden"/>
+            <file name="GroupsMenuAction.shadow_hidden"/>
+            <file name="Profile_hidden"/>
+            <file name="SwitchToRecentDocumentAction.shadow_hidden"/>
+            <folder name="Tools">
+                <file name="ProgressListAction.shadow_hidden"/>
+                <file name="ReporterResultAction.shadow_hidden"/>
+                <file name="ShowPaletteAction.shadow_hidden"/>
+                <file name="org-netbeans-core-windows-actions-GlobalPropertiesAction.shadow_hidden"/>
+                <file name="org-netbeans-modules-editor-bookmarks-ui-BookmarksViewOpenAction.shadow_hidden"/>
+                <file name="org-netbeans-modules-gsf-testrunner-ui-ResultWindowOpenAction.shadow_hidden"/>
+                <file name="org-netbeans-modules-notifications-NotificationCenterTopComponent.shadow_hidden"/>
+            </folder>
+            <file name="Web_hidden"/>
+            <file name="org-netbeans-core-ide-ServicesTabAction.shadow_hidden"/>
+            <file name="org-netbeans-core-io-ui-IOWindowAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-favorites-View.shadow_hidden"/>
+            <file name="org-netbeans-modules-navigator-ShowNavigatorAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-logical-tab-action.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-physical-tab-action.shadow_hidden"/>
+            <file name="org-netbeans-modules-tasklist-ui-TaskListAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-tasks-ui-DashboardTopComponent.shadow_hidden"/>
+        </folder>
+    </folder>
+    <folder name="Toolbars">
+        <folder name="Build">
+            <file name="org-netbeans-modules-payara-micro-action-reload.shadow_hidden"/>
+            <file name="org-netbeans-modules-profiler-nbimpl-actions-ProfilerToolbarDropdownAction.instance_hidden"/>
+            <file name="org-netbeans-modules-project-ui-BuildMainProject.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-RebuildMainProject.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-actions-ActiveConfigAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-web-clientproject-browser-ActiveBrowserAction.shadow_hidden"/>
+        </folder>
+        <folder name="Debug">
+            <file name="org-netbeans-modules-debugger-jpda-truffle-actions-PauseInScriptAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-debugger-jpda-visual-actions-TakeScreenshotAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-debugger-ui-actions-FixAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-debugger-ui-actions-KillAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-debugger-ui-actions-RunToCursorAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-debugger-ui-actions-StepOperationAction.shadow_hidden"/>
+        </folder>
+        <folder name="File">
+            <file name="org-netbeans-modules-project-ui-NewFile.shadow_hidden"/>
+        </folder>
+        <folder name="Git">
+            <file name="org-netbeans-modules-git-ui-blame-AnnotateAction.shadow_hidden"/>
+        </folder>
+        <file name="Memory_hidden"/>
+    </folder>
+</filesystem>

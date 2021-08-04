@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: rs.ac.bg.fon.edubeans
+OpenIDE-Module-Layer: rs/ac/bg/fon/edubeans/layer.xml
+OpenIDE-Module-Localizing-Bundle: rs/ac/bg/fon/edubeans/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
